@@ -1,0 +1,4 @@
+Thato|123456|thato@gmail.com|569334597|Staff
+admin|1234|admin@restaurant.com|555-0123|Admin
+malika|123456|nnn@gmail.com|56933597|Staff
+Nrou|123456|nrou@gmail.com|56933597|Staff
